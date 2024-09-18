@@ -4,7 +4,7 @@ body {
 
 div {
     width: 800px;
-    background-color: navy;
+    background-color: rgb(145, 16, 16);
     height: auto;
     color: white;
     margin: 0 auto;
@@ -19,9 +19,16 @@ a {
     text-align: center;
 }
 
+.image {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    display: block;
 
+}
 
 li {
     padding: 5px;
+    font-size: 16px;
 }
 
