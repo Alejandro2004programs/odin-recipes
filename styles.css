@@ -10,6 +10,7 @@ a {
 .list {
     font-size: 20px;
     font: Verdana, sans-serif;
+    margin: 5px;
 }
 
 .heading {
