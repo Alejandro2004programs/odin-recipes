@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(5, 5, 83);
+    color: white;
+}
+
+a {
+    color: white;
+}
+
+.list {
+    font-size: 20px;
+    font: Verdana, sans-serif;
+}
+
+.heading {
+    text-align: center;
+}
+
+
+
