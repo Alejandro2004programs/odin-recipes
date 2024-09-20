@@ -1,18 +1,20 @@
 body {
     background-color: white;
+    
 }
 
-div {
+.content {
     width: 800px;
-    background-color: rgb(145, 16, 16);
+    background-color: rgb(67, 203, 241);
     height: auto;
-    color: white;
+    color: black;
     margin: 0 auto;
     padding: 10px;
 }   
 
 a {
-    color: white;
+    text-decoration: none;
+    color: black;
 }
 
 .header {
@@ -32,3 +34,21 @@ li {
     font-size: 16px;
 }
 
+.heading {
+    display: flex;
+    width: 100%;
+    color: black;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 16px;
+    
+
+}
+
+.push-left {
+    margin-right: auto;
+}
+
+.heading p {
+    font-size: 20px;
+}
