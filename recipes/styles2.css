@@ -9,7 +9,6 @@ body {
     height: auto;
     color: black;
     margin: 0 auto;
-    padding: 10px;
 }   
 
 a {
@@ -36,12 +35,13 @@ li {
 
 .heading {
     display: flex;
-    width: 100%;
     color: black;
     justify-content: flex-end;
     align-items: center;
     gap: 16px;
-    
+    background-color: rgb(110, 207, 233);
+    padding: 16px;
+    margin-bottom: 16px;
 
 }
 
