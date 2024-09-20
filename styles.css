@@ -1,10 +1,10 @@
 body {
-    background-color: rgb(5, 5, 83);
-    color: white;
+    background-image: url("https://as2.ftcdn.net/v2/jpg/02/09/44/11/1000_F_209441183_q2LYrgme2wvbc5rv2OsWWk0MkmVacTWJ.jpg");
 }
 
 a {
-    color: white;
+    color: black;
+    text-decoration: none;
 }
 
 .list {
@@ -17,5 +17,16 @@ a {
     text-align: center;
 }
 
+.content {
+    background-color: rgb(67, 203, 241);;
+    display: flex;
+    flex-direction: column;
+    max-width: 800px;
+    margin: auto;
+    color: black;
+    height: 80vh;
+}
 
-
+/* li {
+    list-style-type: none;
+} */
