@@ -40,8 +40,8 @@ li {
     align-items: center;
     gap: 16px;
     background-color: rgb(110, 207, 233);
-    padding: 16px;
-    margin-bottom: 16px;
+    padding: 0px 16px;
+    margin-bottom: 32px;
 
 }
 
